@@ -1,0 +1,14 @@
+doxygen/doxygen_new_line_after_brief=true
+doxygen/doxygen_use_brief_tag=false
+doxygen/doxygen_use_javadoc_tags=true
+doxygen/doxygen_use_pre_tag=false
+doxygen/doxygen_use_structural_commands=false
+eclipse.preferences.version=1
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.389638230/TARGET/delimiter=\:
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.389638230/TARGET/operation=append
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.389638230/TARGET/value=
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.389638230/V/delimiter=\:
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.389638230/V/operation=append
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.389638230/V/value=1
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.389638230/append=true
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.389638230/appendContributed=true
